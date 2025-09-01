@@ -1,6 +1,14 @@
 {
-  "3H": { "Duration": 3 },
-  "7H": { "Duration": 7 },
-  "30H": { "Duration": 30 },
-  "PERMA": { "Duration": 0 }
+    "PERMA": {
+        "Duration": 0
+    },
+    "3H": {
+        "Duration": 3
+    },
+    "7H": {
+        "Duration": 7
+    },
+    "30H": {
+        "Duration": 30
+    }
 }
